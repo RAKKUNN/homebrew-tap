@@ -1,8 +1,8 @@
 cask "dualclip" do
-  version "1.2.6"
-  sha256 "291ec844c2184b390449274a95f3f37dcc5a8362965d54612f5c9944942919af"
+  version "1.3.0"
+  sha256 "40faf00bd5f5075e208edbef6362cb2779f051974fbf639e60d3cd193a036fdf"
 
-  url "https://github.com/RAKKUNN/DualClip/releases/download/v#{version}/DualClip-#{version}-arm64.zip"
+  url "https://github.com/RAKKUNN/DualClip/releases/download/v#{version}/DualClip-#{version}-universal.zip"
   name "DualClip"
   desc "Multi-Slot Clipboard Manager for macOS"
   homepage "https://github.com/RAKKUNN/DualClip"
